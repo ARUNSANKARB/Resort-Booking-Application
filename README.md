@@ -23,6 +23,11 @@ This project demonstrates real-world full stack development including REST API d
 - MySQL database integration
 
 ---
+<img width="941" height="434" alt="image" src="https://github.com/user-attachments/assets/083e5151-fd4e-4816-aee7-51a093b40bd7" />
+
+<img width="950" height="428" alt="image" src="https://github.com/user-attachments/assets/0c464474-7f3d-4b18-ac44-b15b901928a9" />
+
+
 
 ##  Tech Stack
 
